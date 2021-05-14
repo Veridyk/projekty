@@ -1,0 +1,9 @@
+C:\Users\Veridyk\source\repos\Launcher\Launcher\bin\Debug\Launcher.exe.config
+C:\Users\Veridyk\source\repos\Launcher\Launcher\bin\Debug\Launcher.exe
+C:\Users\Veridyk\source\repos\Launcher\Launcher\bin\Debug\Launcher.pdb
+C:\Users\Veridyk\source\repos\Launcher\Launcher\obj\Debug\Launcher.csprojAssemblyReference.cache
+C:\Users\Veridyk\source\repos\Launcher\Launcher\obj\Debug\Launcher.Form1.resources
+C:\Users\Veridyk\source\repos\Launcher\Launcher\obj\Debug\Launcher.Properties.Resources.resources
+C:\Users\Veridyk\source\repos\Launcher\Launcher\obj\Debug\Launcher.csproj.GenerateResource.cache
+C:\Users\Veridyk\source\repos\Launcher\Launcher\obj\Debug\Launcher.exe
+C:\Users\Veridyk\source\repos\Launcher\Launcher\obj\Debug\Launcher.pdb

@@ -1,0 +1,10 @@
+SynchronizationCode
+PersonalNumber
+Login
+Name
+Surname
+HsICU
+HsCode
+ValidFrom
+ValidTo
+Email

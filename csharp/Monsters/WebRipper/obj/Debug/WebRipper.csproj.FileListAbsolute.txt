@@ -1,0 +1,13 @@
+C:\Users\Veridyk\source\repos\WebRipper\WebRipper\bin\Debug\WebRipper.exe.config
+C:\Users\Veridyk\source\repos\WebRipper\WebRipper\bin\Debug\WebRipper.exe
+C:\Users\Veridyk\source\repos\WebRipper\WebRipper\bin\Debug\WebRipper.pdb
+C:\Users\Veridyk\source\repos\WebRipper\WebRipper\obj\Debug\WebRipper.csprojAssemblyReference.cache
+C:\Users\Veridyk\source\repos\WebRipper\WebRipper\obj\Debug\WebRipper.Form1.resources
+C:\Users\Veridyk\source\repos\WebRipper\WebRipper\obj\Debug\WebRipper.Properties.Resources.resources
+C:\Users\Veridyk\source\repos\WebRipper\WebRipper\obj\Debug\WebRipper.csproj.GenerateResource.cache
+C:\Users\Veridyk\source\repos\WebRipper\WebRipper\obj\Debug\WebRipper.exe
+C:\Users\Veridyk\source\repos\WebRipper\WebRipper\obj\Debug\WebRipper.pdb
+C:\Users\Veridyk\source\repos\WebRipper\WebRipper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Veridyk\source\repos\WebRipper\WebRipper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Veridyk\source\repos\WebRipper\WebRipper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Veridyk\source\repos\WebRipper\WebRipper\obj\Debug\WebRipper.csproj.CopyComplete

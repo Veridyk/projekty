@@ -1,0 +1,80 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+    font-family: Open Sans; 
+}
+
+.login-header{
+	padding: 20px;
+	background-color: rgb(62, 119, 206);
+}
+
+.login-header h1{
+	color: white;
+}
+
+.contact-form{
+	margin: auto;
+	margin-top: 5%;
+    width: 30%;
+    height: auto;
+    box-sizing: border-box;
+    box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.75);
+    padding: 10px;
+}
+
+.contact-form > form{
+    padding: 30px;
+}
+  
+.contact-form > form > label{
+    display: block;
+    width: 100%;
+    font-weight: bold;
+    padding: 10px 0px 10px 0px;
+}
+
+.contact-form > form > .check{
+    display: inline;
+}
+
+.contact-form > form > input[type=text]{
+    width: 92%;
+    padding: 12px 20px;
+    border-radius: 2px;
+    border: 1px solid lightgray;
+}
+
+.contact-form > form > textarea{
+    width: 100%;
+    min-height: 200px;
+    border-radius: 3px;
+    border: 1px solid lightgray;
+}
+
+.contact-form > form > button{
+    width: 100%;
+    padding: 20px;
+    background-color: rgb(62, 119, 206);
+    color: white;
+    border: none;
+    transition: 0.7s;
+}
+  
+.contact-form > form >  button:hover{
+    transition: 0.5s;
+    background-color: rgb(143, 219, 255);
+    cursor: pointer;
+}
+
+
+@media only screen and (max-width: 1000px) {
+	.contact-form{
+		width: 60%;
+	}
+}

@@ -1,0 +1,6 @@
+C:\Users\Michal Haluza\source\repos\KPG\KPG\bin\Release\KPG.exe.config
+C:\Users\Michal Haluza\source\repos\KPG\KPG\bin\Release\KPG.exe
+C:\Users\Michal Haluza\source\repos\KPG\KPG\bin\Release\KPG.pdb
+C:\Users\Michal Haluza\source\repos\KPG\KPG\obj\Release\KPG.exe
+C:\Users\Michal Haluza\source\repos\KPG\KPG\obj\Release\KPG.pdb
+C:\Users\Michal Haluza\source\repos\KPG\KPG\obj\Release\KPG.csprojAssemblyReference.cache

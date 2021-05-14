@@ -1,0 +1,3 @@
+System.IndexOutOfRangeException: Index je mimo hranice pole.
+   v LDAP.Config.CreateConfig(String[] args) v C:\Users\Michal Haluza\Desktop\Integrace AD\LDAP - final\LDAP\Config.cs:řádek 26
+   v LDAP.Program.Main(String[] args) v C:\Users\Michal Haluza\Desktop\Integrace AD\LDAP - final\LDAP\Program.cs:řádek 17

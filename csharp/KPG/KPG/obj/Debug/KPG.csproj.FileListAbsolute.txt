@@ -1,0 +1,6 @@
+C:\Users\Michal Haluza\source\repos\KPG\KPG\obj\Debug\KPG.csprojAssemblyReference.cache
+C:\Users\Michal Haluza\source\repos\KPG\KPG\bin\Debug\KPG.exe.config
+C:\Users\Michal Haluza\source\repos\KPG\KPG\bin\Debug\KPG.exe
+C:\Users\Michal Haluza\source\repos\KPG\KPG\bin\Debug\KPG.pdb
+C:\Users\Michal Haluza\source\repos\KPG\KPG\obj\Debug\KPG.exe
+C:\Users\Michal Haluza\source\repos\KPG\KPG\obj\Debug\KPG.pdb

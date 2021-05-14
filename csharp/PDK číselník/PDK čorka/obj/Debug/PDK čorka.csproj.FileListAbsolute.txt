@@ -1,0 +1,10 @@
+C:\Users\Michal Haluza\source\repos\PDK čorka\PDK čorka\bin\Debug\PDK čorka.exe.config
+C:\Users\Michal Haluza\source\repos\PDK čorka\PDK čorka\bin\Debug\PDK čorka.exe
+C:\Users\Michal Haluza\source\repos\PDK čorka\PDK čorka\bin\Debug\PDK čorka.pdb
+C:\Users\Michal Haluza\source\repos\PDK čorka\PDK čorka\obj\Debug\PDK čorka.csprojAssemblyReference.cache
+C:\Users\Michal Haluza\source\repos\PDK čorka\PDK čorka\obj\Debug\PDK_čorka.Form1.resources
+C:\Users\Michal Haluza\source\repos\PDK čorka\PDK čorka\obj\Debug\PDK_čorka.Properties.Resources.resources
+C:\Users\Michal Haluza\source\repos\PDK čorka\PDK čorka\obj\Debug\PDK čorka.csproj.GenerateResource.cache
+C:\Users\Michal Haluza\source\repos\PDK čorka\PDK čorka\obj\Debug\PDK čorka.exe
+C:\Users\Michal Haluza\source\repos\PDK čorka\PDK čorka\obj\Debug\PDK čorka.pdb
+C:\Users\Michal Haluza\source\repos\PDK čorka\PDK čorka\obj\Debug\PDK čorka.csproj.ResolveComReference.cache
